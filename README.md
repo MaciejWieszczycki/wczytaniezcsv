@@ -21,3 +21,6 @@ Ten projekt to skrypt w Pythonie, który:
 2. **Instalacja bibliotek:**
    ```bash
    pip install pandas matplotlib seaborn
+
+
+   Projekt powstał przy wsparciu mccopilot
